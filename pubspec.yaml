@@ -21,16 +21,13 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
-
-  scrollable_positioned_list: ^0.1.6
+  after_layout: ^1.0.7+2
 
   flutter_tab_bar_no_ripple: ^0.1.1
 
   bubble_tab_indicator: ^0.1.4
 
   google_nav_bar: ^2.2.0
-
-  toggle_bar: ^1.0.0
 
   flutter:
     sdk: flutter
